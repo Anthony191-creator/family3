@@ -1,0 +1,18 @@
+body
+{ 
+   text-align:center;
+}
+#name
+{
+   word-spacing: 10px;
+   font-variant: small-caps;
+   font-size: 80px;
+
+}
+#familypic
+{
+   border-style: solid;
+   border-color: green;
+   width: 580px;
+   padding: 5px;
+}
